@@ -188,3 +188,14 @@ Swagger UI будет доступен по адресу: http://localhost:8080/
 **Ошибки и обработка**
 
 В проекте реализована централизованная обработка ошибок с использованием аннотации @ControllerAdvice. Сообщения об ошибках возвращаются в формате:
+
+
+
+
+Пример работы Swagger:
+
+![swagger](https://github.com/user-attachments/assets/f585ecdf-10d2-479b-a92e-fbd496b4f40a)
+![swagger-api-docs](https://github.com/user-attachments/assets/a759b5c3-785f-47ac-8604-3d34df817303)
+
+
+
